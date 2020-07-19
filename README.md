@@ -1,6 +1,21 @@
 # video_agora_io
 
-A new Flutter application.
+Agora Flutter Quickstart
+
+## Prerequisites
+
+- Agora.io [Developer Account](https://dashboard.agora.io/signin/)
+- [Flutter](https://flutter.io/) 1.0.0
+
+## Quick Start
+
+This repository shows you how to use Agora Flutter SDK to build a simple video call app. It demonstrates you how to:
+
+- Join / leave a channel
+- Mute / Un mute audio
+- Switch camera views
+- Layout multiple video views
+
 
 ## Getting Started
 
